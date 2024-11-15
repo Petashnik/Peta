@@ -21,7 +21,7 @@ send_email('Напоминаю самому себе о вебинаре', 'urba
 #    if not all(['@' in recipient,
 #               '@' in sender,
 #                recipient.endswith('.ru') or recipient.endswith('.com') or recipient.endswith('.net') or
-#                sender.endswith('.ru') or sender.endswith('.com') or sender.endswith('.net')]):
+#                sender.endswith('.ru') or sender.endswith('.com') or sender.endswith('.met')]):
 #        print ('Нельзя направить почту')
 
 #    elif recipient == sender:
