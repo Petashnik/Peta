@@ -42,3 +42,5 @@ vehicle1.set_color('BLACK')
 vehicle1.owner = 'Vasyok'
 
 vehicle1.print_info()
+
+#Павел Ившин
